@@ -1,0 +1,30 @@
+[
+  {
+    "file": "final_test1.png",
+    "sha256": "e3dc434eec2c2d8deb6dd2bcffe489f213a71fb9a61fa86eda2b6bf17827181d"
+  },
+  {
+    "file": "final_test2.png",
+    "sha256": "955c3e0082d120f80884a514c7a81f4df85c81be8e4405da6c941934ff1667d1"
+  },
+  {
+    "file": "final_test3.png",
+    "sha256": "2b12ba3f489dc83b5e2b1a3dbc41edc3b3c0d1985fba9ad420150610679d1224"
+  },
+  {
+    "file": "initial_test1.png",
+    "sha256": "3f37de88fc4c5768bcb2ffe667f167a4af3771659b6d24e0fd4f91e7d836126d"
+  },
+  {
+    "file": "initial_test2.png",
+    "sha256": "000aba64d8b15fe328a9c824393c5121c7e200b8541e0be91923635f375b6a3f"
+  },
+  {
+    "file": "initial_test3.png",
+    "sha256": "3e1e0acf2cef13bc3a3f9f0d8d9a4ec49ea3772110fe7c7edde836e5e1d1303c"
+  },
+  {
+    "file": "Robair.jpeg",
+    "sha256": "d8e131c1f7d512c39af63b55296b669395739fb402b2ee25cb034e349940e76c"
+  }
+]
